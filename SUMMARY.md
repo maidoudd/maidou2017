@@ -1,6 +1,5 @@
 * [安全边界](security-boundary.md)
 * [安全审核](security-check.md)
 * [数据分析](data-analysis.md)
-* [常见问题](FAQ.md)
-* [联系方式](contact-info.md)
 * [最佳实践](best-practice.md)
+* [常见问题](FAQ.md)
